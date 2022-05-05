@@ -1,2 +1,2 @@
-# .github
-Description of the Organization
+
+Description of the Organization in /profile/Readme.md
