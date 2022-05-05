@@ -1,4 +1,4 @@
-## Hi there 👋
+## discarbon: a set of tools to facilitate carbon emission offsets for crypto natives 👋
 
 <!--
 
