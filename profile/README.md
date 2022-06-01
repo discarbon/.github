@@ -2,7 +2,7 @@
 
 A set of tools to facilitate carbon emission offsets for crypto natives.
 
-More info about the goals and roadmap can be found in the [pitch deck]{https://discarbon.github.io/pitch-deck-2206/}
+More info about the goals and roadmap can be found in the [pitch deck](https://discarbon.github.io/pitch-deck-2206/)
 
 
 
