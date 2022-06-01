@@ -1,4 +1,4 @@
-## DisCarbon
+## disCarbon
 
 A set of tools to facilitate carbon emission offsets for crypto natives.
 
